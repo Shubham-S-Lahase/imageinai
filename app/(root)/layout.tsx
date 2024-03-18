@@ -1,4 +1,4 @@
-import MobileNav from "@/components/shared/mobilenav";
+import MobileNav from "@/components/shared/mobileNav";
 import Sidebar from "@/components/shared/sidebar";
 import React from "react";
 
